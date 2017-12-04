@@ -1,0 +1,42 @@
+Annotation of concept and instance information for WordNet 1.7*
+---
+
+The format of each line is
+
+i|c synsetNo
+
+i = the synsetNo represents an instance.
+c = the synsetNo represents a concept.
+
+
+Due to the large number of WordNet synsets, this manual annotation
+is expected to contain a number of mistakes. Please contact Enrique
+Alfonseca (Enrique.Alfonseca@ii.uam.es;enrique@cs.york.ac.uk) for
+any comments.
+
+*WordNet 1.7 is Copyright © 2001 by Princeton University.
+
+COPYRIGHT ---
+
+This software and database is being provided to you, the LICENSEE, by
+Enrique Alfonseca under the following license. By obtaining, using
+and/or copying this software and database, you agree that you have
+read, understood, and will comply with these terms and conditions.:
+
+Permission to use, copy, modify and distribute this software and
+database and its documentation for any purpose and without fee or
+royalty is hereby granted, provided that you agree to comply with the
+following copyright notice and statements, including the disclaimer,
+and that the same appear on ALL copies of the software, database and
+documentation, including modifications that you make for internal use
+or for distribution.
+
+Copyright © 2002 by Enrique Alfonseca. All rights reseved.
+
+THIS SOFTWARE AND DATABASE IS PROVIDED "AS IS" AND ENRIQUE ALFONSECA
+MAKES NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED. BY WAY OF
+EXAMPLE, BUT NOT LIMITATION, ENRIQUE ALFONSECA MAKES NO
+REPRESENTATIONS OR WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY
+PARTICULAR PURPOSE OR THAT THE USE OF THE LICENSED SOFTWARE, DATABASE
+OR DOCUMENTATION WILL NOT INFRINGE ANY THIRD PARTY PATENTS,
+COPYRIGHTS, TRADEMARKS OR OTHER RIGHTS.
